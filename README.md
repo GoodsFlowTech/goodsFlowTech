@@ -1,101 +1,80 @@
-# Hi there 👋, I'm Akshaya Sri Harini S
+# Hi 👋 I'm Akshaya Sri Harini S
 
-🎓 Computer Science Student
-🌐 Web Developer
-💡 Passionate about creating websites and web applications
-🚀 Continuously learning and exploring new technologies
+### Python Developer | AI & Machine Learning | Web Development | RHCSA Certified
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-* 🎓 Computer Science Student
-* 🌐 Interested in Web Development
-* 💻 Love building responsive and interactive websites
-* 📚 Learning modern web technologies and software development practices
-* 🚀 Interested in real-world projects and problem-solving
-* 📫 Email: [akshayasriharini@gmail.com](mailto:akshayasriharini@gmail.com)
+💡 Passionate about Python Development, Artificial Intelligence, Machine Learning, Website Development, and Problem Solving.
 
----
+🌐 Interested in creating modern websites and web applications that solve real-world problems.
 
-## 🛠 Skills
+💼 Interested in Freelancing and working on innovative projects.
 
-### Programming Languages
-
-* Java
-* Python
-* C
-* C++
-
-### Web Technologies
-
-* HTML
-* CSS
-* JavaScript
-* React
-
-### Database
-
-* MySQL
-* SQL
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
+🎯 Goal: To continuously develop my technical skills and build impactful technology solutions.
 
 ---
 
-## 🚀 Projects
+## 🛠 Technical Skills
 
-### 🌾 Farmer Website
-
-A responsive website designed to provide information and support services for farmers.
-
-### 📦 StockPulse: Advanced Goods Tracking System
-
-An IoT-based inventory management system that uses voice commands and sensors for efficient stock monitoring.
-
-### 🧠 DBMS Query Optimization Using Graph Neural Networks
-
-A research project focused on improving database query performance using Graph Neural Network models.
+* Programming (Python, Java, C)
+* Web Development (HTML, CSS, JavaScript)
 
 ---
 
-## 🎯 Interests
+## 📂 Projects
 
-* 🌐 Full Stack Web Development
-* 🗄️ Database Management Systems
-* 🔒 Cybersecurity Fundamentals
+### Placement Preparation Portal
+
+A platform designed to help students prepare for placements through aptitude practice, coding resources, interview guidance, and career development support.
+
+### Stock Plus Advanced – Goods Tracking System
+
+An inventory management and stock-tracking solution for efficient warehouse management.
+
+### Career Launch Platform
+
+A career guidance platform that helps students discover learning paths, internships, certifications, and placement opportunities.
+
+### Smart Farm Management System
+
+A technology-driven farming solution that helps monitor crops, manage farm resources, track agricultural activities, and improve productivity through data-driven insights.
 
 ---
 
 ## 📜 Certifications
 
+* RHCSA (Red Hat Certified System Administrator)
+* NPTEL Certification Courses
+* Coursera Professional Courses
 * Cisco Networking Academy Courses
-* DevOps Essentials
-* Cloud Computing Fundamentals
-* AI & Data Science Fundamentals
 
 ---
 
-## 🌐 Connect With Me
+## 📚 Areas of Interest
+
+* Artificial Intelligence
+* Machine Learning
+* Python Development
+* Website Development
+* Freelancing
+* Data Science
+
+---
+
+## 🏆 Coding Profiles
+
+* LeetCode: Add Your Link
+* CodeChef: Add Your Link
+
+---
+
+## 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/akshaya-sri-harini-s-68a123291/
-* GitHub: https://github.com/GoodsFlowTech
-* Email: [akshayasriharini@gmail.com](mailto:akshayasriharini@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Learning, Building, Innovating, and Growing Every Day.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GoodsFlowTech\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GoodsFlowTech\&layout=compact)
-
----
-
-## ✨ Career Goal
-
-To build impactful web applications, enhance my software development skills, and contribute to innovative technology solutions while growing as a computer science professional.
