@@ -1,4 +1,4 @@
-# Hi 👋 I'm Akshaya Sri Harini S
+# Hi I'm Akshaya Sri Harini S
 
 ### Python Developer | AI & Machine Learning | Web Development | RHCSA Certified
 
